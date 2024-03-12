@@ -1,0 +1,2 @@
+# database
+tempat penyimpanan biasa
